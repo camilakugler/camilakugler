@@ -42,7 +42,7 @@ I am interested in technology, data analysis and building solutions based on inf
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://api.iconify.design/vscode-icons:file-type-sql.svg" 
+    src="https://api.iconify.design/vscode-icons/file-type-sql.svg" 
 />
 <img 
     align="left" 
