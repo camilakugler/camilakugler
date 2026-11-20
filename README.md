@@ -58,8 +58,8 @@ I am interested in technology, data analysis and building solutions based on inf
     title="Tableau"
     width="30px"
     height="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg"
+    style="padding-right: 10px; object-fit: contain;"
+    src="https://brandlogos.sgp1.digitaloceanspaces.com/png/logos/tableau-icon-400.png"
 />
 <img
     align="left"
