@@ -59,7 +59,7 @@ I am interested in technology, data analysis and building solutions based on inf
     width="30px"
     height="30px"
     style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/tableau/FFFFFF"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg"
 />
 <img
     align="left"
