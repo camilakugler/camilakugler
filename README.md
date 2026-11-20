@@ -60,6 +60,14 @@ I am interested in technology, data analysis and building solutions based on inf
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/tableau.svg" 
 />
+<img
+    align="left"
+    alt="Power BI"
+    title="Power BI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
+/>
 <img 
     align="left" 
     alt="Jupyter Notebook"
