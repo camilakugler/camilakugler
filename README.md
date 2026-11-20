@@ -2,9 +2,9 @@
 
 **`Junior Data Analyst`**
 
-My name is Camila Kugler Azevedo, I am from São Paulo, Brazil. I completed my Data Analysis training at TripleTen, where I developed hands-on projects using Python, SQL, Pandas, NumPy, statistics, and data visualization, with a focus on solving business problems and supporting data-driven decision-making.
+My name is Camila Kugler Azevedo, and I am from São Paulo, Brazil. I am currently pursuing a Bachelor's degree in Computer Science and have completed my Data Analysis training at TripleTen, where I developed hands-on projects using Python, SQL, Pandas, NumPy, statistics, and data visualization, with a focus on solving business problems and supporting data-driven decision-making.
 
-I am interested in technology, data analysis and building solutions based on information. I am currently looking for my first professional opportunity as a Junior Data Analyst, where I can apply my skills, continue learning, and grow in the field.
+I am interested in technology, data analysis, and building data-driven solutions. I am currently looking for my first professional opportunity as a Data Analyst, where I can apply my skills, continue learning, and grow in the field.
 
 <p align="left">
   
