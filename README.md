@@ -65,7 +65,7 @@ I am interested in technology, data analysis and building solutions based on inf
     alt="Power BI"
     title="Power BI"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10px; object-fit: contain;"
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"
 />
 <img 
