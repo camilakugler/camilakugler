@@ -52,13 +52,14 @@ I am interested in technology, data analysis and building solutions based on inf
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img 
-    align="left" 
+<img
+    align="left"
     alt="Tableau"
-    title="Tableau" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/tableau.svg" 
+    title="Tableau"
+    width="30px"
+    height="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/tableau/FFFFFF"
 />
 <img
     align="left"
