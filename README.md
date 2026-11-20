@@ -59,7 +59,7 @@ I am interested in technology, data analysis and building solutions based on inf
     width="30px"
     height="30px"
     style="padding-right: 10px; object-fit: contain;"
-    src="./logo-tableau-svgrepo-com.svg"
+    src="./logo-tableau-svgrepo-com.svg?v=2"
 />
 <img
     align="left"
